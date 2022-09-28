@@ -1,0 +1,11 @@
+Model Information:
+* title:	American Road Intersection
+* source:	https://sketchfab.com/3d-models/american-road-intersection-c5132669d5f845f6903681d315d063ed
+* author:	jimbogies (https://sketchfab.com/jimbogies)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "American Road Intersection" (https://sketchfab.com/3d-models/american-road-intersection-c5132669d5f845f6903681d315d063ed) by jimbogies (https://sketchfab.com/jimbogies) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
